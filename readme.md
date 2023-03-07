@@ -13,3 +13,43 @@
 ```
 mdbook serve
 ```
+
+大致大纲：
+
+```
+chatgpt
+	学习英语
+		场景例句
+		语音互动
+	编程类
+		编写测试用例
+		编写一次性代码
+		学习语言特性
+		Github Action Code Review
+		代码解释
+	文案工作
+		润色文案
+		编写大纲
+		编写文案内容
+		提供创意
+	接入 API
+		申请 api key
+		接入官方 api
+		官方模型区别介绍
+		封装 web 服务
+		fine tune 案例
+	chatgpt 不适用场景
+		TODO
+Stable diffusion
+	绘图工作
+		Stable diffusion 概念简介
+		常用 stable diffusion 服务简介
+		复现 hello asuka
+		风景插画示例
+		人物插画示例
+		Prompt Engineering
+		搭建私有 stable diffusion 服务
+			常用 model
+		Replicate.com (http://Replicate.com) API 使用托管 stable diffusion 服务
+
+```
