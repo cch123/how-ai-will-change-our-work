@@ -1,0 +1,6 @@
+[book]
+authors = ["Xargin"]
+language = "cn"
+multilingual = false
+src = "src"
+title = "How will AI change our work"
