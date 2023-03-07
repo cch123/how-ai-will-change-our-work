@@ -32,6 +32,8 @@ chatgpt
 		编写大纲
 		编写文案内容
 		提供创意
+	研究工作
+		论文提练
 	接入 API
 		申请 api key
 		接入官方 api
@@ -50,6 +52,7 @@ Stable diffusion
 		Prompt Engineering
 		搭建私有 stable diffusion 服务
 			常用 model
-		Replicate.com (http://Replicate.com) API 使用托管 stable diffusion 服务
+		使用托管 stable diffusion 服务
+			Replicate.com (http://Replicate.com) api 接入指南
 
 ```
