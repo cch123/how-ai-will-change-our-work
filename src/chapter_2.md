@@ -28,6 +28,8 @@
 
 #### 使用 chatgpt 快速了解学科梗概
 
+https://prompthero.com/chatgpt-prompts
+
 #### facebook 开源 chat model 使用
 
 https://github.com/facebookresearch/llama
