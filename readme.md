@@ -21,6 +21,8 @@ chatgpt
 	学习英语
 		场景例句
 		语音互动
+		语音识别 whisper
+		基于 ML 的 tts 工具 mozilla/tts
 	编程类
 		编写测试用例
 		编写一次性代码
@@ -56,3 +58,7 @@ Stable diffusion
 			Replicate.com (http://Replicate.com) api 接入指南
 
 ```
+
+https://www.perplexity.ai/
+
+https://www.chatpdf.com/
